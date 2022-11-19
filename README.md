@@ -24,5 +24,5 @@ Provides translations in toki pona for terms which Minecraft's default translati
 
 ## Licensing
 ### Pack icon
-Changes made from
 http://en.wikipedia.org/wiki/User:Eequor, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
+Image modified
