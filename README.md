@@ -21,3 +21,8 @@ Provides translations in toki pona for terms which Minecraft's default translati
 * Goat horn subtitles now specify the instrument when played, e.g. "Ponder" goat horn subtitle from "palisa pi soweli nena li kalama" to "palisa pi soweli nena li sona"
 * Tropical fish #8 ("Emperor Red Snapper") from "kala ko walo en loje" to "kala ko walo loje"
 * Tropical fish #11 ("Ornate Butterflyfish") from "kala ko walo en loje jelo" to "kala ko walo pi loje jelo"
+
+## Licensing
+### Pack icon
+Changes made from
+http://en.wikipedia.org/wiki/User:Eequor, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
