@@ -9,7 +9,7 @@ Provides translations in toki pona for terms which Minecraft's default translati
 * "Creeper" from "monsuta Creeper" to "monsuta pi seli pakala"
 * "Ghast" from "monsuta Ghast" to "monsuta sewi"
 * "Prismarine" from "kiwen Prismarine" to "kiwen telo laso"
-* "Netherrack" from "kiwen Netherrack" to "kiwen seli", and changed magma block from "kiwen seli" to "kiwen pi telo sewi"
+* "Netherrack" from "kiwen Netherrack" to "kiwen seli", and changed magma block from "kiwen seli" to "kiwen pi telo seli"
 * "Purpur" from "kiwen Purpur" to "kiwen nasa"
 * "Sculk" from "soko Skulk" to "soko pimeja"
 * "Nether" from "ma Nether" to "ma anpa"
