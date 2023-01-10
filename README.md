@@ -4,8 +4,8 @@ Provides translations in toki pona for terms which Minecraft's default translati
 ## Term translations:
 * "End" from "ma End" to "ma pini"
 * "Netherite" from "mani Netherite" to "mani pimeja"
-* "monsuta Shulker" to "monsuta leko"
-* "Shulker" from "mani Mooshroom" to "mani soko"
+* "Shulker" from "monsuta Shulker" to "monsuta leko"
+* "Mooshroom" from "mani Mooshroom" to "mani soko"
 * "Creeper" from "monsuta Creeper" to "monsuta pi seli pakala"
 * "Ghast" from "monsuta Ghast" to "monsuta sewi"
 * "Prismarine" from "kiwen Prismarine" to "kiwen telo laso"
